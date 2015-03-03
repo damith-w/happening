@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">I-jiffy</string>
 
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Calendar</string>
+    <string name="title_section3">Recent Events</string>
+    <string name="title_section4">Media</string>
+    <string name="title_section5">Settings</string>
+    <string name="title_section6">Create Databse</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
