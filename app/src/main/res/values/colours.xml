@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_orange_500">#FF5722</color>
+    <color name="deep_orange_400">#FF7043</color>
+    <color name="deep_orange_100">#FFCCBC</color>
+    <color name="deep_orange_50">#FBE9E7</color>
+    <color name="orange_A100">#FFD180</color>
+    <color name="orange_A200">#FFAB40</color>
+    <color name="orange_A400">#FF9100</color>
+</resources>
+
